@@ -1,0 +1,60 @@
+{
+  "recipes": [
+    {
+      "id": "local_001",
+      "name": "Chicken Adobo",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=500&h=300&fit=crop",
+      "category": "Filipino",
+      "area": "Philippines",
+      "servings": 4,
+      "instructions": "Step 1: Prepare the Marinade\nIn a large bowl, combine chicken, soy sauce, vinegar, garlic, bay leaves, and black pepper. Mix well to coat the chicken evenly.\n\nStep 2: Marinate the Chicken\nCover the bowl and let the chicken marinate for at least 30 minutes. For best results, marinate overnight in the refrigerator.\n\nStep 3: Brown the Chicken\nHeat cooking oil in a large pan over medium heat. Remove chicken from marinade (reserve the marinade) and brown the chicken pieces on all sides for 3-4 minutes per side.\n\nStep 4: Cook the Adobo\nPour the reserved marinade over the browned chicken. Bring to a boil, then reduce heat to low. Cover and simmer for 30-40 minutes until chicken is tender and cooked through.\n\nStep 5: Season and Serve\nTaste and adjust seasoning with salt and pepper if needed. Remove bay leaves before serving. Serve hot with steamed rice.",
+      "ingredients": [
+        "Chicken (thighs or drumsticks)",
+        "Soy sauce",
+        "Vinegar (cane or coconut)",
+        "Garlic",
+        "Bay leaves",
+        "Black peppercorns",
+        "Cooking oil",
+        "Salt"
+      ],
+      "measurements": [
+        "1 kg",
+        "1/2 cup",
+        "1/2 cup",
+        "8 cloves, crushed",
+        "3 pieces",
+        "1 teaspoon",
+        "2 tablespoons",
+        "to taste"
+      ]
+    },
+    {
+      "id": "local_002",
+      "name": "Pork Adobo",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&h=300&fit=crop",
+      "category": "Filipino",
+      "area": "Philippines",
+      "servings": 4,
+      "instructions": "Step 1: Prepare the Meat\nCut the pork belly into serving-size pieces. In a large pot, combine pork, soy sauce, vinegar, minced garlic, bay leaves, and black pepper.\n\nStep 2: Marinate\nLet the pork marinate in the mixture for 30 minutes to 1 hour.\n\nStep 3: Cook the Adobo\nPlace the pot over medium heat and bring to a boil. Reduce heat to low and simmer for 45-60 minutes until pork is tender and sauce has reduced.\n\nStep 4: Add Water\nIf the sauce becomes too dry, add 1/2 cup of water and continue simmering.\n\nStep 5: Serve\nRemove bay leaves before serving. Serve hot with steamed rice.",
+      "ingredients": [
+        "Pork belly or shoulder",
+        "Soy sauce",
+        "Vinegar",
+        "Garlic",
+        "Bay leaves",
+        "Black pepper",
+        "Water"
+      ],
+      "measurements": [
+        "1 kg",
+        "1/2 cup",
+        "1/4 cup",
+        "6 cloves, minced",
+        "3 pieces",
+        "1 teaspoon",
+        "1/2 cup"
+      ]
+    }
+  ]
+}
